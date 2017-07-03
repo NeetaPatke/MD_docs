@@ -10,7 +10,7 @@ I just want to add an image here. Don't know how. Let's look up!
 
 Yeee, what I did was:
 1) Created and issue.
-2) Dropped the required image in the issue window.
+2) Dragged the required image in the issue window.
 3) In the edit mode, copied the MD code that GitHub had generated for inserting and image.
 4) Pasted the code in this document.
 
